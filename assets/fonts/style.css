@@ -1,0 +1,16 @@
+@font-face {
+   font-family: 'Jalnan';
+   src: url('Jalnan/font.ttf');
+}
+@font-face {
+   font-family: 'BMJUA_ttf';
+   src: url('BMJUA_ttf/font.ttf');
+}
+@font-face {
+   font-family: '경기천년바탕_Regular';
+   src: url('경기천년바탕_Regular/font.ttf');
+}
+@font-face {
+   font-family: '경기천년제목_Bold';
+   src: url('경기천년제목_Bold/font.ttf');
+}
